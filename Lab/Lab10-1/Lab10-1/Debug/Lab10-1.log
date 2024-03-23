@@ -1,0 +1,4 @@
+﻿  TreeType.cpp
+c:\users\jeong\desktop\자료구조 work\lab10-1\lab10-1\treetype.cpp(140): warning C4101: 'data' :참조되지 않은 지역 변수입니다.
+c:\users\jeong\desktop\자료구조 work\lab10-1\lab10-1\treetype.cpp(169): warning C4715: 'PtrToSuccessor': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Lab10-1.vcxproj -> C:\Users\jeong\Desktop\자료구조 work\Lab10-1\Debug\Lab10-1.exe

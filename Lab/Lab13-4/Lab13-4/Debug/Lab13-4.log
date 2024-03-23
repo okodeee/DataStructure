@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\jeong\desktop\자료구조 work\lab13-4\lab13-4\main.cpp(11): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\jeong\desktop\자료구조 work\lab13-4\lab13-4\main.cpp(12): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  Lab13-4.vcxproj -> C:\Users\jeong\Desktop\자료구조 work\Lab13-4\Debug\Lab13-4.exe

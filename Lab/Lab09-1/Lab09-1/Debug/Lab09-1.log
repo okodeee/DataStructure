@@ -1,0 +1,3 @@
+﻿  TreeType.cpp
+c:\users\jeong\desktop\자료구조 work\lab09-1\lab09-1\treetype.cpp(366): warning C4715: 'TreeType::PtrToSuccessor': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Lab09-1.vcxproj -> C:\Users\jeong\Desktop\자료구조 work\Lab09-1\Debug\Lab09-1.exe

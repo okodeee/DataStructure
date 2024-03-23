@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\jeong\desktop\자료구조 work\lab06-3-b\lab06-3-b\sortedtype.h(265): warning C4101: 'length' :참조되지 않은 지역 변수입니다.
+  c:\users\jeong\desktop\자료구조 work\lab06-3-b\lab06-3-b\sortedtype.h(252): note: 클래스 템플릿 멤버 함수 'void SortedType<ItemType>::MergeLists(SortedType<ItemType> &,SortedType<ItemType> &)'을(를) 컴파일하고 있습니다.
+  c:\users\jeong\desktop\자료구조 work\lab06-3-b\lab06-3-b\main.cpp(25): note: 컴파일 중인 함수 템플릿 인스턴스화 'void SortedType<ItemType>::MergeLists(SortedType<ItemType> &,SortedType<ItemType> &)'에 대한 참조를 확인하십시오.
+  c:\users\jeong\desktop\자료구조 work\lab06-3-b\lab06-3-b\main.cpp(9): note: 컴파일 중인 클래스 템플릿 인스턴스화 'SortedType<ItemType>'에 대한 참조를 확인하세요.
+  Lab06-3-b.vcxproj -> C:\Users\jeong\Desktop\자료구조 work\Lab06-3-b\Debug\Lab06-3-b.exe

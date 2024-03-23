@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\jeong\desktop\자료구조 work\lab14-3-b\lab14-3-b\main.cpp(11): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\jeong\desktop\자료구조 work\lab14-3-b\lab14-3-b\main.cpp(12): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  MergeSort.cpp
+  Student.cpp
+  Swap.cpp
+  코드를 생성하고 있습니다...
+  Lab14-3-b.vcxproj -> C:\Users\jeong\Desktop\자료구조 work\Lab14-3-b\Debug\Lab14-3-b.exe
